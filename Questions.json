@@ -1,0 +1,37 @@
+[
+  {
+    "id": "145",
+    "type": "DARE",
+    "question": "Let someone choose a seductive pose and take a photo of you.",
+    "penaltySips": 4,
+    "createdAt": "2024-10-24T12:34:56Z"
+  },
+  {
+    "id": "146",
+    "type": "TRUTH",
+    "question": "What is the most embarrassing thing you’ve ever done?",
+    "penaltySips": 2,
+    "createdAt": "2024-10-24T13:00:00Z"
+  },
+  {
+    "id": "147",
+    "type": "DARE",
+    "question": "Do a silly dance for 30 seconds.",
+    "penaltySips": 3,
+    "createdAt": "2024-10-24T14:15:00Z"
+  },
+  {
+    "id": "148",
+    "type": "TRUTH",
+    "question": "What secret are you keeping from your best friend?",
+    "penaltySips": 1,
+    "createdAt": "2024-10-24T15:30:00Z"
+  },
+  {
+    "id": "149",
+    "type": "DARE",
+    "question": "Post a funny selfie on social media.",
+    "penaltySips": 5,
+    "createdAt": "2024-10-24T16:45:00Z"
+  }
+]
